@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "tp_modul5_103022400111/1.0.0": {
+        "runtime": {
+          "tp_modul5_103022400111.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp_modul5_103022400111/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
